@@ -1,0 +1,5 @@
+Date,Problem,Number,Difficulty,Topic,Status,Time Spent,Confidence,Link,Notes,Last Reviewed
+2026-06-21,Two Sum,1,Easy,Array,Attempted,15,4,https://leetcode.com/problems/two-sum/,Used a hash map. Learned how to store previously seen numbers.,2026-06-21
+2026-06-21,Search Insert Position,35,Easy,Binary Search,Solved,25,3,https://leetcode.com/problems/search-insert-position/,Learned binary search. Return left when target is not found.,2026-06-21
+2026-06-21,Longest Substring Without Repeating Characters,3,Medium,Sliding Window,Attempted,35,2,,,
+2026-06-21,Median of Two Sorted Arrays,4,Hard,Binary Search,Not Started,50,3,,,
